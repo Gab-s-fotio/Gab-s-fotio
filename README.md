@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gab-s-fotio
-- 👀 I’m interested in Robotik
-- 🌱 I’m currently learning SAP software
-- 💞️ I’m looking to collaborate on infoematikprojekte
-- 📫 How to reach me : gaby.fotio@mni.thm.de
+- 👋 Hi, I’m @Gab-s-fotio ingenieur Informatic 
+- 👀 I’m interested in Robotic , embedded Systems and SPS Programmierungen 
+- 🌱 I’m currently learning RTOS, Hardware software
+- 💞️ I’m looking to collaborate on infoematic projects
+- 📫 How to reach me : fotiogaby@yahoo.com
   
 
 <!---
